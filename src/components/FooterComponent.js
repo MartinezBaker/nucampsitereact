@@ -56,7 +56,7 @@ function Footer(props){
               </a>
               <br />
               <a
-                role="button"
+                
                 className="btn btn-link"
                 href="mailto:notreal@notreal.co"
               >
