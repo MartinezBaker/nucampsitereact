@@ -1,9 +1,9 @@
 export const InitialFeedback = {
-    firstName:'',
-    lastName:'',
-    phoneNum:'',
+    firstName: '',
+    lastName: '',
+    phoneNum: '',
     email: '',
-    agree: 'false',
+    agree: false,
     contactType: 'Phone',
     feedback: ''
-}
+};
